@@ -1,39 +1,33 @@
-# Intern
-### Project lists
-You can choose one or more project, do research and development based on Unreal Engine or other DCC tools
-- Content Generation,create virtual world or assets based on image or text (**Open...**)
-- Understanding of 3D asset, like smart retrival, auto tag(**Open ...**)
-- Simulation, maily focus on cloth simulation and fluid simulation (closed now, may open later)
-
-### Who we are
-[Tencent](https://guangzi.qq.com/index.shtml)
+### 游戏引擎算法/开发日常实习生
 
 
-### Requirement
-- Familiar with Computer Graphics
-- Familiar with C++
-- Experienced in machine learning
-- 3 months +
-
-### Contact
-If you are interested or want to get more details, don't hesitate. tongkuisu@gmail.com
+#### 职位描述:
+参与游戏引擎的开发，涉及算法研究，系统工程整合等
 
 
-### 实习内容
-以下课题任选其一（可多选），算法研究，工程开发（包括但不限于虚幻引擎，DCC软件插件等）
-- 内容生成类，利用图片，文字等一键创建虚拟世界，如特定的资产生成，场景生成等
-- 3D资产的理解，智能检索等
-- 物理模拟类，利用神经网络加速布料，流体等的模拟，天气预报 (暂停开放)
+#### 部门：
+腾讯游戏 - 光子技术中心
 
-### 实习部门
-[腾讯](https://guangzi.qq.com/index.shtml)
 
-### 实习要求
-- 良好的图形学知识
-- 良好的C++基础
-- 一定的机器学习知识
-- 3个月以上
+#### 基本要求：
+1. 良好的C++工程能力
+2. 了解计算机图形学
+3. 实习时间3个月以上
 
-### 联系方式
-如果您感兴趣，或想了解课题细节，发送邮件tongkuisu@gmail.com
+
+#### 加分：
+1. 了解并使用过任何一款商业引擎，如UE,Unity,Godot等
+2. 有一定的算法研究基础，不限于图形学，视觉，机器学习等
+3. 热爱游戏行业，自学能力强
+
+
+#### 收获：
+1. 资深引擎工程师指导，接触工业级技术方案，服务千万玩家
+2. 成果可投递领域TOP会议（长期实习同学支持毕业论文完成）
+3. 优异者提供转正机会
+
+
+
+如有意愿，或咨询细节，请联系
+tongkuisu@gmail.com，标题格式：【引擎实习生】-姓名-学校
 
