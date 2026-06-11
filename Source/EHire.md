@@ -13,7 +13,7 @@
 2. 热爱游戏行业，自学能力强
 
 #### 部门
-[腾娱互动科技有限公司](https://zhaotalent-tenyu.ihr.tencent-cloud.com/tenant/campus?caagw_t=1781173174)
+[腾娱互动科技有限公司](https://zhaotalent-tenyu.ihr.tencent-cloud.com/tenant/social)
 
 
 #### 地点
@@ -36,7 +36,7 @@
 3. 热爱游戏行业，自学能力强
 
 #### 部门
-[腾娱互动科技有限公司](https://zhaotalent-tenyu.ihr.tencent-cloud.com/tenant/campus?caagw_t=1781173174)
+[腾娱互动科技有限公司](https://zhaotalent-tenyu.ihr.tencent-cloud.com/tenant/social)
 
 
 #### 地点
@@ -46,6 +46,10 @@
 #### 收获
 1. 参与腾讯游戏核心项目日常研发，服务亿万玩家
 2. 与腾讯专家一起协作，快速提升技术能力
+
+#### 其他
+1. 如有意愿，或咨询细节，请联系tongkuisu@gmail.com.
+2. 标题格式：【腾娱互动】-姓名，邮件内容请附加简历
 
 
 
